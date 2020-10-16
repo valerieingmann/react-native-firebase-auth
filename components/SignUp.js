@@ -1,10 +1,10 @@
 import React from "react";
-import { Text, View, StyleSheet } from "react-native";
+import { Text, View } from "react-native";
 
 export default function SignUp(props) {
 	return (
 		<View>
-			<Text>SignUp</Text>
+			<Text>Sign Up</Text>
 		</View>
 	);
 }

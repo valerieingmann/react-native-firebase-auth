@@ -1,10 +1,10 @@
 import React from "react";
-import { Text, View, StyleSheet } from "react-native";
+import { Text, View } from "react-native";
 
-export default function Login(props) {
+export default function LogIn(props) {
 	return (
 		<View>
-			<Text>Login</Text>
+			<Text>Log in</Text>
 		</View>
 	);
 }
